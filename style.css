@@ -237,7 +237,7 @@ footer p {
     header {
         background-image: none;
         background-color: #4c0082e1;
-        padding: 43px 65px;
+        /* padding: 43px 65px; */
     }
 
     .header-content {
@@ -425,7 +425,7 @@ footer p {
     footer {
         text-align: center;
         background-color: #0B0D17;
-        padding: 43px 65px;
+        /* padding: 43px 65px; */
     }
 
     footer h4 {
