@@ -411,10 +411,10 @@ footer p {
 
         background: #FFF4D6;
         display: flex;
-        max-width: 90%;
+        max-width: 80%;
         align-items: center;
         justify-content: center;
-        padding: auto 50px;
+        padding: auto 10px;
 
     }
 
@@ -433,7 +433,7 @@ footer p {
         border: none;
         background: #D9D9D9;
         border-radius: 5px 0 0 5px;
-        width: 200px;
+        width: 150px;
     }
 
     footer {
@@ -628,13 +628,13 @@ footer p {
 
     /* get updates styles */
     .subscribe {
-        max-width: 60%;
+        max-width: 70%;
         margin: 7rem auto;
 
     }
 
     .subscribe-section {
-        padding: 76px 30px;
+        padding: 76px 189px;
         background: #FFF4D6;
         display: inline;
     }
