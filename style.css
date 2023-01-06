@@ -237,6 +237,8 @@ footer p {
     header {
         background-image: none;
         background-color: #4c0082e1;
+        background-size: cover;
+        background-size: 100vw;
         /* padding: 43px 65px; */
     }
 
